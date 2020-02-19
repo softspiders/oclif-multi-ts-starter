@@ -1,5 +1,5 @@
 # oclif-multi-ts-starter
 
-Oclif multcommand starter on TypeScript
+Oclif multicommand starter on TypeScript
 
 UNDER DEVELOPMENT
