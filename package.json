@@ -1,11 +1,12 @@
 {
   "name": "oclif-multi-ts-starter",
+  "description": "oclif-multi-ts-starter",
   "version": "0.1.0",
-  "author": "AlexanderLapygin",
+  "author": "AlexanderLapygin @AlexanderLapygin",
   "bin": {
-    "command1": "./bin/run"
+    "mycmd": "./bin/run"
   },
-  "bugs": "https://github.com/201219/oclif-multi-ts-starter/issues",
+  "bugs": "https://github.com/AlexanderLapygin/oclif-multi-ts-starter/issues",
   "dependencies": {
     "@oclif/command": "^1.5.19",
     "@oclif/config": "^1.14.0",
@@ -14,7 +15,7 @@
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.22.2",
-    "@types/node": "^10.17.15",
+    "@types/node": "^10.17.16",
     "globby": "^10.0.2",
     "rimraf": "^3.0.2",
     "ts-node": "^8.6.2",
@@ -29,7 +30,7 @@
     "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
-  "homepage": "https://github.com/201219/oclif-multi-ts-starter",
+  "homepage": "https://github.com/AlexanderLapygin/oclif-multi-ts-starter",
   "keywords": [
     "oclif"
   ],
@@ -37,12 +38,12 @@
   "main": "lib/index.js",
   "oclif": {
     "commands": "./lib/commands",
-    "bin": "command1",
+    "bin": "mycmd",
     "plugins": [
       "@oclif/plugin-help"
     ]
   },
-  "repository": "201219/oclif-multi-ts-starter",
+  "repository": "AlexanderLapygin/oclif-multi-ts-starter",
   "scripts": {
     "postpack": "rimraf oclif.manifest.json",
     "prepack": "rimraf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
