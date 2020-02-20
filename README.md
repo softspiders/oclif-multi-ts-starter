@@ -2,8 +2,6 @@
 
 OCLIF-generated multi-command starter on TypeScript
 
-UNDER DEVELOPMENT
-
 ## Feature tags
 
 - cli
@@ -16,13 +14,13 @@ UNDER DEVELOPMENT
 
 ## Authors
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
 ---
 
 ## Direct ancestors
 
-TBD
+[node-cli-starter](https://github.com/softspiders/node-cli-starter)
 
 ---
 
@@ -34,15 +32,6 @@ npm i
 
 ---
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/oclif-multi-ts-starter.svg)](https://npmjs.org/package/oclif-multi-ts-starter)
-[![Downloads/week](https://img.shields.io/npm/dw/oclif-multi-ts-starter.svg)](https://npmjs.org/package/oclif-multi-ts-starter)
-[![License](https://img.shields.io/npm/l/oclif-multi-ts-starter.svg)](https://github.com/AlexanderLapygin/oclif-multi-ts-starter/blob/master/package.json)
-
-<!-- toc -->
-* [Usage](#usage)
-* [Commands](#commands)
-<!-- tocstop -->
 # Usage
 <!-- usage -->
 ```sh-session
