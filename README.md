@@ -9,6 +9,7 @@ OCLIF-generated multi-command starter on TypeScript
 - oclif
 - starter
 - template
+- typescript
 
 ---
 
@@ -32,8 +33,8 @@ npm i
 
 ---
 
-# Usage
-<!-- usage -->
+## Usage
+
 ```sh-session
 $ npm install -g oclif-multi-ts-starter
 $ mycmd COMMAND
@@ -45,9 +46,8 @@ USAGE
   $ mycmd COMMAND
 ...
 ```
-<!-- usagestop -->
-# Commands
-<!-- commands -->
+
+## Commands
 * [`mycmd hello [FILE]`](#mycmd-hello-file)
 * [`mycmd help [COMMAND]`](#mycmd-help-command)
 
@@ -87,7 +87,6 @@ OPTIONS
 ```
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.3/src\commands\help.ts)_
-<!-- commandsstop --> 
 
 ---
 
