@@ -51,7 +51,7 @@ USAGE
 * [`mycmd hello [FILE]`](#mycmd-hello-file)
 * [`mycmd help [COMMAND]`](#mycmd-help-command)
 
-## `mycmd hello [FILE]`
+### *mycmd hello [FILE]*
 
 describe the command here
 
@@ -71,7 +71,7 @@ EXAMPLE
 
 _See code: [src\commands\hello.ts](https://github.com/AlexanderLapygin/oclif-multi-ts-starter/blob/v0.1.0/src\commands\hello.ts)_
 
-## `mycmd help [COMMAND]`
+### *mycmd help [COMMAND]*
 
 display help for mycmd
 
