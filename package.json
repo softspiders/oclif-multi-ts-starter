@@ -6,7 +6,7 @@
   "bin": {
     "mycmd": "./bin/run"
   },
-  "bugs": "https://github.com/AlexanderLapygin/oclif-multi-ts-starter/issues",
+  "bugs": "https://github.com/softspiders/oclif-multi-ts-starter/issues",
   "dependencies": {
     "@oclif/command": "^1.5.19",
     "@oclif/config": "^1.14.0",
@@ -30,7 +30,7 @@
     "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
-  "homepage": "https://github.com/AlexanderLapygin/oclif-multi-ts-starter",
+  "homepage": "https://github.com/softspiders/oclif-multi-ts-starter",
   "keywords": [
     "oclif"
   ],
